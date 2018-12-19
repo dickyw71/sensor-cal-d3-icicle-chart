@@ -1,0 +1,33 @@
+{
+    "sensors": {
+        "count": 0,
+        "sensors": [
+            {
+                "sensor_id": "",
+                "barcode": "",
+                "calibrations_count": 0
+            }
+        ]
+    },
+    "parts": {
+        "count": 603,
+        "parts": [
+            {
+                "part": "part_name",
+                "sensor_count": 0
+            }
+        ]
+    },
+    "types": {
+        "count": 130,
+        "types": [
+            {
+                "type": "type_name",
+                "sensor_count": 0
+            }
+        ]
+    },
+    "calibrations": {
+        "count": 70246
+    }
+}
